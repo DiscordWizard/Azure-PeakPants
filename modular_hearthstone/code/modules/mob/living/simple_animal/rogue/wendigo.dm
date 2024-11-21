@@ -43,6 +43,7 @@
 	dodgetime = 0
 	aggressive = 1
 //	stat_attack = UNCONSCIOUS
+	erpable = TRUE
 
 /mob/living/simple_animal/hostile/retaliate/rogue/wendigo/get_sound(input)
 	switch(input)

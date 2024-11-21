@@ -9,7 +9,7 @@ GLOBAL_LIST_INIT(searaider_aggro, world.file2list("strings/rt/searaideraggroline
 	dodgetime = 30
 	flee_in_pain = TRUE
 	possible_rmb_intents = list()
-
+	erpable = TRUE
 
 /mob/living/carbon/human/species/human/northern/searaider/ambush
 	aggressive=1

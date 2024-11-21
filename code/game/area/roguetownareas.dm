@@ -157,7 +157,8 @@ GLOBAL_LIST_INIT(roguetown_areas_typecache, typecacheof(/area/rogue/indoors/town
 				/mob/living/simple_animal/hostile/retaliate/rogue/spider = 40,
 				/mob/living/simple_animal/hostile/retaliate/rogue/poison/giant_spider = 30,
 				/mob/living/simple_animal/hostile/retaliate/rogue/poison/giant_spider/hunter = 30,
-				/mob/living/carbon/human/species/goblin/npc/ambush/cave = 30)
+				/mob/living/carbon/human/species/goblin/npc/ambush/cave = 30,
+				/mob/living/carbon/human/species/halforc/orc_raider/ambush = 15)
 	first_time_text = "THE MURDERWOOD"
 	converted_type = /area/rogue/indoors/shelter/woods
 /area/rogue/indoors/shelter/woods
@@ -199,7 +200,8 @@ GLOBAL_LIST_INIT(roguetown_areas_typecache, typecacheof(/area/rogue/indoors/town
 				/mob/living/simple_animal/hostile/retaliate/rogue/bigrat = 60,
 				/mob/living/carbon/human/species/goblin/npc/ambush/cave = 30,
 				/mob/living/simple_animal/hostile/retaliate/rogue/bogtroll = 50,
-				/mob/living/simple_animal/hostile/retaliate/rogue/wolf/gator = 50)
+				/mob/living/simple_animal/hostile/retaliate/rogue/wolf/gator = 50,
+				/mob/living/carbon/human/species/halforc/orc_raider/ambush = 10)
 	first_time_text = "THE FOREST"
 	converted_type = /area/rogue/indoors/shelter/bog
 
@@ -307,6 +309,7 @@ GLOBAL_LIST_INIT(roguetown_areas_typecache, typecacheof(/area/rogue/indoors/town
 				/mob/living/simple_animal/hostile/retaliate/rogue/bigrat = 30,
 				/mob/living/carbon/human/species/goblin/npc/ambush/cave = 20,
 				/mob/living/carbon/human/species/skeleton/npc/ambush = 10,
+				/mob/living/carbon/human/species/halforc/orc_raider/ambush = 10,
 				/mob/living/simple_animal/hostile/retaliate/rogue/minotaur = 5)
 	converted_type = /area/rogue/outdoors/caves
 /area/rogue/outdoors/caves
