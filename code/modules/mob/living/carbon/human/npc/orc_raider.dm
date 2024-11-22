@@ -13,6 +13,7 @@ GLOBAL_LIST_INIT(orcraider_aggro, world.file2list("strings/rt/orcraideraggroline
 	possible_rmb_intents = list()
 	gender = MALE
 	erpable = TRUE
+	hornychance = 50
 
 /mob/living/carbon/human/species/halforc/orc_raider/savage_orc
 

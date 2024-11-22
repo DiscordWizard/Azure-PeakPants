@@ -46,6 +46,7 @@
 	aggressive = 1
 	patron = /datum/patron/inhumen/graggar		//Flavor + recognized as hostile if preformed miracles on instead of as faithless.
 	erpable = TRUE
+	seeksfuck = TRUE
 
 /mob/living/simple_animal/hostile/retaliate/rogue/orc/orc2
 	icon_state = "savageorc2"

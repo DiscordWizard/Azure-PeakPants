@@ -101,6 +101,7 @@ Difficulty: Medium
 	aggressive = 1
 //	stat_attack = UNCONSCIOUS
 	erpable = TRUE
+	seeksfuck = TRUE
 
 /datum/action/innate/megafauna_attack/fire_cone
 	name = "Fire Cone"

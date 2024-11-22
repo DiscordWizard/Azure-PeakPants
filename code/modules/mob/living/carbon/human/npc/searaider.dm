@@ -10,6 +10,7 @@ GLOBAL_LIST_INIT(searaider_aggro, world.file2list("strings/rt/searaideraggroline
 	flee_in_pain = TRUE
 	possible_rmb_intents = list()
 	erpable = TRUE
+	hornychance = 50
 
 /mob/living/carbon/human/species/human/northern/searaider/ambush
 	aggressive=1
